@@ -1,0 +1,6 @@
+πr2
+
+- Area trapezoid 
+- Area parallelogram
+- Area traiangle
+    algorithm - flowchart - code
