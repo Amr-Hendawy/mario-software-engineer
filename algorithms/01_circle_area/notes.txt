@@ -2,5 +2,5 @@
 
 - Area trapezoid 
 - Area parallelogram
-- Area traiangle
+- Area triangle
     algorithm - flowchart - code
